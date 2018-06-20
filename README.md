@@ -2,6 +2,10 @@
 Plugin for Plesk to create lets encrypt wildcards certificates
 
 # Installation
-curl https://raw.githubusercontent.com/Aisasemi/Plesk-Lets-Encrypt-Wildcard/master/install.sh | sh
-# OR
+curl https://raw.githubusercontent.com/Aisasemi/Plesk-Lets-Encrypt-Wildcard/master/install.sh | sh  
+**OR**  
 wget -O -  https://raw.githubusercontent.com/Aisasemi/Plesk-Lets-Encrypt-Wildcard/master/install.sh | sh
+
+# Usage
+
+**plesk_le** domain.tld
